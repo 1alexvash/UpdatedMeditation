@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="29" viewBox="0 0 151 29">
+  <g id="logo" transform="translate(-123 -64)">
+    <g id="Эллипс_10" data-name="Эллипс 10" transform="translate(123 64)" fill="#083a39" stroke="#22b5b3" stroke-width="2">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="13.5" fill="none"/>
+    </g>
+    <text id="Meditate" transform="translate(217 87)" fill="#fff" font-size="24" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-56" y="0">Meditate</tspan></text>
+    <circle id="Эллипс_11" data-name="Эллипс 11" cx="6.5" cy="6.5" r="6.5" transform="translate(131 72)" fill="#22b5b3"/>
+  </g>
+</svg>
