@@ -13,9 +13,10 @@ const App = () => {
       <div className="start">
         <h1>CALM DOWN NOW</h1>
         <div className="circle">START</div>
+        <div className="hint">tap to start</div>
       </div>
       <div className="duration">
-        <div className="circle">
+        <div className="circle active">
           <div className="text">1</div>
           <div className="text-time">min</div>
         </div>
