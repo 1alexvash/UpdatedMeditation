@@ -1,6 +1,6 @@
 import "./scss/main.scss";
 
-import LogoImg from "./images/logo.png";
+import LogoImg from "./images/logo.svg";
 import MusicImg from "./images/music.svg";
 
 const App = () => {
